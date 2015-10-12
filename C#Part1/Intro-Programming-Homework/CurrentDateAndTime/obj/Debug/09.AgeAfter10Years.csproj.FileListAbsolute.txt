@@ -1,0 +1,6 @@
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\CurrentDateAndTime\obj\Debug\09.AgeAfter10Years.csprojResolveAssemblyReference.cache

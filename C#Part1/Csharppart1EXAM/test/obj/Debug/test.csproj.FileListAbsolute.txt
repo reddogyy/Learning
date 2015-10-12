@@ -1,0 +1,6 @@
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\test\bin\Debug\test.exe.config
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\test\bin\Debug\test.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\test\bin\Debug\test.pdb
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\test\obj\Debug\test.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\test\obj\Debug\test.pdb

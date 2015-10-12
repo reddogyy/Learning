@@ -1,0 +1,1 @@
+c:\users\ivanovga\documents\visual studio 2013\Projects\TextFiles\09.DeleteOddLines\bin\Debug\09.DeleteOddLines.exe.config

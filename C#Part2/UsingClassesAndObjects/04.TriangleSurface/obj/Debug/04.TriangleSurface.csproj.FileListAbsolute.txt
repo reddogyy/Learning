@@ -1,0 +1,5 @@
+c:\users\ivanovga\documents\visual studio 2013\Projects\UsingClassesAndObjects\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe.config
+c:\users\ivanovga\documents\visual studio 2013\Projects\UsingClassesAndObjects\04.TriangleSurface\bin\Debug\04.TriangleSurface.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\UsingClassesAndObjects\04.TriangleSurface\bin\Debug\04.TriangleSurface.pdb
+c:\users\ivanovga\documents\visual studio 2013\Projects\UsingClassesAndObjects\04.TriangleSurface\obj\Debug\04.TriangleSurface.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\UsingClassesAndObjects\04.TriangleSurface\obj\Debug\04.TriangleSurface.pdb

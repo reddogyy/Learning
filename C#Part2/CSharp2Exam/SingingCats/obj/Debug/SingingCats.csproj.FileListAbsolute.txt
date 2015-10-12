@@ -1,0 +1,5 @@
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\SingingCats\bin\Debug\SingingCats.exe.config
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\SingingCats\bin\Debug\SingingCats.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\SingingCats\bin\Debug\SingingCats.pdb
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\SingingCats\obj\Debug\SingingCats.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\SingingCats\obj\Debug\SingingCats.pdb

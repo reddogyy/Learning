@@ -1,0 +1,6 @@
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\ExamPreparation\testOne\bin\Debug\testOne.exe.config
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\ExamPreparation\testOne\bin\Debug\testOne.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\ExamPreparation\testOne\bin\Debug\testOne.pdb
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\ExamPreparation\testOne\obj\Debug\testOne.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\ExamPreparation\testOne\obj\Debug\testOne.pdb
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\ExamPreparation\testOne\obj\Debug\testOne.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\01.Print\bin\Debug\01.Print.exe.config
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\01.Print\bin\Debug\01.Print.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\01.Print\bin\Debug\01.Print.pdb
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\01.Print\obj\Debug\01.Print.csprojResolveAssemblyReference.cache
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\01.Print\obj\Debug\01.Print.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\01.Print\obj\Debug\01.Print.pdb
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\C#Part1\Csharppart1EXAM\01.Print\bin\Debug\01.Print.exe.config
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\C#Part1\Csharppart1EXAM\01.Print\obj\Debug\01.Print.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\C#Part1\Csharppart1EXAM\01.Print\obj\Debug\01.Print.pdb

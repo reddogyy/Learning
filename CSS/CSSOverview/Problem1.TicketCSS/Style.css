@@ -1,0 +1,56 @@
+﻿body {
+}
+
+#initialTable{
+    background-color: #595959;
+}
+
+#tableHeader {
+    font-size: large;
+    color:#BBBBBB;
+}
+
+.definition {
+    font-style:italic;
+    vertical-align:top;
+    color:#FEF7F0;
+}
+#name{
+    vertical-align:top;
+    color:#FFF3B1;
+}
+#isActive{
+    color:#F90100;
+}
+#userEmail{
+    color:#FFF3B1;
+}
+#responseTimeValue{
+    color:#BBBBBA;
+}
+#lastActionStatus{
+    color:#BBBBBA
+}
+#links{
+    color:#FFF3B1;
+}
+#statusValue{
+    color:#DD6A37;
+}
+li{
+    text-align:left;
+    color:#71B47A;    
+    list-style:disc;                
+}
+span{
+    color:#FFF3B1;
+}
+#circle{
+    shape-outside:circle();
+}
+#name:before {
+	content: url(dot.png);
+	display: inline-block;
+	position: relative;
+	left: -2px;
+}

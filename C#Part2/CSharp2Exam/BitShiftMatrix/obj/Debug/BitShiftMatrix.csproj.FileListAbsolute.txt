@@ -1,0 +1,6 @@
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\BitShiftMatrix\bin\Debug\BitShiftMatrix.exe.config
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\BitShiftMatrix\bin\Debug\BitShiftMatrix.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\BitShiftMatrix\bin\Debug\BitShiftMatrix.pdb
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\BitShiftMatrix\obj\Debug\BitShiftMatrix.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\BitShiftMatrix\obj\Debug\BitShiftMatrix.pdb
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\BitShiftMatrix\obj\Debug\BitShiftMatrix.csprojResolveAssemblyReference.cache

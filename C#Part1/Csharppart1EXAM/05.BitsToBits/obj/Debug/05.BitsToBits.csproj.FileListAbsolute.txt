@@ -1,0 +1,8 @@
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\05.BitsToBits\bin\Debug\05.BitsToBits.exe.config
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\05.BitsToBits\bin\Debug\05.BitsToBits.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\05.BitsToBits\bin\Debug\05.BitsToBits.pdb
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\05.BitsToBits\obj\Debug\05.BitsToBits.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\05.BitsToBits\obj\Debug\05.BitsToBits.pdb
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\C#Part1\Csharppart1EXAM\05.BitsToBits\bin\Debug\05.BitsToBits.exe.config
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\C#Part1\Csharppart1EXAM\05.BitsToBits\obj\Debug\05.BitsToBits.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\C#Part1\Csharppart1EXAM\05.BitsToBits\obj\Debug\05.BitsToBits.pdb

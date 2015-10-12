@@ -1,0 +1,5 @@
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\ExamPreparation\Neurons\bin\Debug\Neurons.exe.config
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\ExamPreparation\Neurons\bin\Debug\Neurons.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\ExamPreparation\Neurons\bin\Debug\Neurons.pdb
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\ExamPreparation\Neurons\obj\Debug\Neurons.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\ExamPreparation\Neurons\obj\Debug\Neurons.pdb

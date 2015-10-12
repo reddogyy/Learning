@@ -1,0 +1,5 @@
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\10.EmpolyeeData\bin\Debug\10.EmpolyeeData.exe.config
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\10.EmpolyeeData\bin\Debug\10.EmpolyeeData.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\10.EmpolyeeData\bin\Debug\10.EmpolyeeData.pdb
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\10.EmpolyeeData\obj\Debug\10.EmpolyeeData.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\10.EmpolyeeData\obj\Debug\10.EmpolyeeData.pdb

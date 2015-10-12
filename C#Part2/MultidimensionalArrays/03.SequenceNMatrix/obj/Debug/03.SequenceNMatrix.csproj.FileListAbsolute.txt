@@ -1,0 +1,6 @@
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\MultidimensionalArrays\03.SequenceNMatrix\bin\Debug\03.SequenceNMatrix.exe.config
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\MultidimensionalArrays\03.SequenceNMatrix\bin\Debug\03.SequenceNMatrix.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\MultidimensionalArrays\03.SequenceNMatrix\bin\Debug\03.SequenceNMatrix.pdb
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\MultidimensionalArrays\03.SequenceNMatrix\obj\Debug\03.SequenceNMatrix.csprojResolveAssemblyReference.cache
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\MultidimensionalArrays\03.SequenceNMatrix\obj\Debug\03.SequenceNMatrix.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\MultidimensionalArrays\03.SequenceNMatrix\obj\Debug\03.SequenceNMatrix.pdb

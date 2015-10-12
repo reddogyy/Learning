@@ -1,0 +1,42 @@
+﻿body {
+    background-color:#A9A9A9;
+    font-size: 14px;
+}
+h1{
+    color:#FAFAD2;
+    text-align:center;
+}
+li, body>header>h1, body>footer {
+	text-align: center;
+}
+ul
+{
+list-style-type: none;
+}
+li {
+	font-size: 1.4em;
+	font-weight: bold;
+    color:#FAFAD2;
+}
+
+body>header>h1 {
+	font-size: 2.4em;
+}
+
+article h1 {
+	font-size: 1.6em;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+.current{
+    background-color:#D3D3D3;
+}
+li:last-of-type{
+    text-decoration: underline;
+}
+footer>p {
+	font-size: 0.8em;
+}

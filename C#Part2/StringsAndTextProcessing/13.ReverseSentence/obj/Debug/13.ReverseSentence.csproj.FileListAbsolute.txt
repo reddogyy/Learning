@@ -1,0 +1,5 @@
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing\13.ReverseSentence\bin\Debug\13.ReverseSentence.exe.config
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing\13.ReverseSentence\bin\Debug\13.ReverseSentence.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing\13.ReverseSentence\bin\Debug\13.ReverseSentence.pdb
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing\13.ReverseSentence\obj\Debug\13.ReverseSentence.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing\13.ReverseSentence\obj\Debug\13.ReverseSentence.pdb

@@ -1,0 +1,6 @@
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\ivanovga\documents\visual studio 2013\Projects\TextFiles\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.exe.config
+c:\users\ivanovga\documents\visual studio 2013\Projects\TextFiles\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\TextFiles\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.pdb
+c:\users\ivanovga\documents\visual studio 2013\Projects\TextFiles\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\TextFiles\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.pdb

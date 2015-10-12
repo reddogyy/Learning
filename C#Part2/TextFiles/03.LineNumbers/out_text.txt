@@ -1,0 +1,44 @@
+﻿1. using System;
+2. using System.IO;
+3. using System.Text;
+4. class LineNumbers
+5.     {
+6.         static void Main()
+7.         {
+8. 
+9.             try
+10.             {
+11.                 StreamReader reader = new StreamReader("../../test.txt", Encoding.GetEncoding("UTF-8"));
+12.                 StreamWriter writer = new StreamWriter("../../out_text.txt", false, Encoding.GetEncoding("UTF-8"));
+13.                 Console.OutputEncoding = System.Text.Encoding.UTF8;
+14. 
+15.                 using (reader)
+16.                 {
+17.                     using (writer)
+18.                     {
+19.                         int cnt = 1;
+20.                         string line = reader.ReadLine();
+21. 
+22.                         while (line != null)
+23.                         {
+24.                             writer.WriteLine("{0}. {1}", cnt, line);
+25.                             line = reader.ReadLine();
+26.                             cnt++;
+27.                         }
+28.                     }
+29.                 }
+30.             }
+31.             catch (FileNotFoundException)
+32.             {
+33.                 Console.WriteLine("Can not find file!");
+34.             }
+35.             catch (DirectoryNotFoundException)
+36.             {
+37.                 Console.WriteLine("Invalid directory in the file path!");
+38.             }
+39.             catch (IOException)
+40.             {
+41.                 Console.WriteLine("Can not open the file!");
+42.             }
+43.         }
+44.     }

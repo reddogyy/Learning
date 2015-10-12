@@ -1,0 +1,6 @@
+c:\users\ivanovga\documents\visual studio 2013\Projects\Numeric\01.Binary\bin\Debug\01.Binary.exe.config
+c:\users\ivanovga\documents\visual studio 2013\Projects\Numeric\01.Binary\bin\Debug\01.Binary.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\Numeric\01.Binary\bin\Debug\01.Binary.pdb
+c:\users\ivanovga\documents\visual studio 2013\Projects\Numeric\01.Binary\obj\Debug\01.Binary.csprojResolveAssemblyReference.cache
+c:\users\ivanovga\documents\visual studio 2013\Projects\Numeric\01.Binary\obj\Debug\01.Binary.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\Numeric\01.Binary\obj\Debug\01.Binary.pdb

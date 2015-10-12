@@ -1,0 +1,6 @@
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Loops\07.CalculateN\bin\Debug\07.CalculateN.exe.config
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Loops\07.CalculateN\bin\Debug\07.CalculateN.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Loops\07.CalculateN\bin\Debug\07.CalculateN.pdb
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Loops\07.CalculateN\obj\Debug\07.CalculateN.csprojResolveAssemblyReference.cache
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Loops\07.CalculateN\obj\Debug\07.CalculateN.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Loops\07.CalculateN\obj\Debug\07.CalculateN.pdb

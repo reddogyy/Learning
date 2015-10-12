@@ -1,0 +1,53 @@
+﻿body {
+}
+table, th, td {
+	border-collapse: collapse;
+}
+
+table {
+	border: 1px solid #d5d4c2;
+}
+
+td, th {
+	padding: 5px;
+}
+
+td {
+	border-left: 1px solid #d5d4c2;
+	padding-right: 50px;
+}
+th{
+    text-align:left;
+    font-weight:normal;
+    color:#FCFDFE;
+    border-bottom:1px solid #BFBDA1;
+    background:#59BD06;
+}
+th {
+	border-left: 1px solid #407f29;
+	border-bottom: 1px solid #407f29;
+}
+th:first-of-type, td:first-of-type {
+	border-left: none;
+}
+
+.odd{
+    background-color:#FFFFFF;
+}
+.even{
+    background-color:#ECECD8;
+}
+.unitedKingdom:before {
+	content: url(UK.jpg);
+	vertical-align: -25%;
+}
+
+.germany:before {
+	content: url(DE.jpg);
+	vertical-align: -25%;
+}
+
+.mexico:before {
+	content: url(MX.jpg);
+	vertical-align: -25%;
+}

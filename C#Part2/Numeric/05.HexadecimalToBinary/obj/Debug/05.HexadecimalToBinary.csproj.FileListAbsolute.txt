@@ -1,0 +1,1 @@
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Numeric\05.HexadecimalToBinary\bin\Debug\05.HexadecimalToBinary.exe.config

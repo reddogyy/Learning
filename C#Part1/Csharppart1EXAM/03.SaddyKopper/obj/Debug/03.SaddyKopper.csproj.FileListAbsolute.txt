@@ -1,0 +1,9 @@
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\03.SaddyKopper\bin\Debug\03.SaddyKopper.exe.config
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\03.SaddyKopper\bin\Debug\03.SaddyKopper.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\03.SaddyKopper\bin\Debug\03.SaddyKopper.pdb
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\03.SaddyKopper\obj\Debug\03.SaddyKopper.csprojResolveAssemblyReference.cache
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\03.SaddyKopper\obj\Debug\03.SaddyKopper.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\Csharppart1EXAM\03.SaddyKopper\obj\Debug\03.SaddyKopper.pdb
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\C#Part1\Csharppart1EXAM\03.SaddyKopper\bin\Debug\03.SaddyKopper.exe.config
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\C#Part1\Csharppart1EXAM\03.SaddyKopper\obj\Debug\03.SaddyKopper.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\C#Part1\Csharppart1EXAM\03.SaddyKopper\obj\Debug\03.SaddyKopper.pdb

@@ -1,0 +1,6 @@
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\IncreasingAbsoluteDifferences\bin\Debug\IncreasingAbsoluteDifferences.exe.config
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\IncreasingAbsoluteDifferences\bin\Debug\IncreasingAbsoluteDifferences.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\IncreasingAbsoluteDifferences\bin\Debug\IncreasingAbsoluteDifferences.pdb
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\IncreasingAbsoluteDifferences\obj\Debug\IncreasingAbsoluteDifferences.csprojResolveAssemblyReference.cache
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\IncreasingAbsoluteDifferences\obj\Debug\IncreasingAbsoluteDifferences.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\IncreasingAbsoluteDifferences\obj\Debug\IncreasingAbsoluteDifferences.pdb

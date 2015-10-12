@@ -1,0 +1,7 @@
+Net Beans -  Net Beans is an integrated development environment (IDE) for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5. It is also an application platform framework for Java desktop applications and others.
+Eclipse - In computer programming, Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications.
+Komodo Edit -Komodo Edit is a free text editor for dynamic programming languages.Komodo Edit is the free and Open-Source counterpart of Komodo IDE.
+Komodo IDE - Cross-Platform IDE for all your major languages,including Python, PHP, Ruby, Perl, Tcl, NodeJS, HTML, CSS and JavaScript.
+Android Studio - Android Studio is used only for developing an Android applications.
+SharpDevelop - SharpDevelop (also styled as #develop) is a free and open source integrated development environment (IDE) for the .NET Framework, Mono, Gtk# and Glade# platforms. It supports development in C#, Visual Basic .NET, Boo, F#, IronPython and IronRuby programming languages.
+

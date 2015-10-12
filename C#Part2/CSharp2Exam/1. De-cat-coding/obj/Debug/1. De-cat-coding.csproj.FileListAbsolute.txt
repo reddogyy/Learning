@@ -1,0 +1,6 @@
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\1. De-cat-coding\bin\Debug\_1.De_cat_coding.exe.config
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\1. De-cat-coding\obj\Debug\1. De-cat-coding.csprojResolveAssemblyReference.cache
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\1. De-cat-coding\bin\Debug\_1.De_cat_coding.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\1. De-cat-coding\bin\Debug\_1.De_cat_coding.pdb
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\1. De-cat-coding\obj\Debug\_1.De_cat_coding.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\CSharp2Exam\1. De-cat-coding\obj\Debug\_1.De_cat_coding.pdb

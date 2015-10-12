@@ -1,0 +1,6 @@
+c:\users\ivanovga\documents\visual studio 2013\Projects\examPreparation\StrangeLandNumbers\bin\Debug\StrangeLandNumbers.exe.config
+c:\users\ivanovga\documents\visual studio 2013\Projects\examPreparation\StrangeLandNumbers\bin\Debug\StrangeLandNumbers.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\examPreparation\StrangeLandNumbers\bin\Debug\StrangeLandNumbers.pdb
+c:\users\ivanovga\documents\visual studio 2013\Projects\examPreparation\StrangeLandNumbers\obj\Debug\StrangeLandNumbers.csprojResolveAssemblyReference.cache
+c:\users\ivanovga\documents\visual studio 2013\Projects\examPreparation\StrangeLandNumbers\obj\Debug\StrangeLandNumbers.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\examPreparation\StrangeLandNumbers\obj\Debug\StrangeLandNumbers.pdb

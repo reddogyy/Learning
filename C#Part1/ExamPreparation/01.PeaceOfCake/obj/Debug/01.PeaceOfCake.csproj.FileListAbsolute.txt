@@ -1,0 +1,6 @@
+c:\users\ivanovga\documents\visual studio 2013\Projects\ExamPreparation\01.PeaceOfCake\bin\Debug\01.PeaceOfCake.exe.config
+c:\users\ivanovga\documents\visual studio 2013\Projects\ExamPreparation\01.PeaceOfCake\bin\Debug\01.PeaceOfCake.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\ExamPreparation\01.PeaceOfCake\bin\Debug\01.PeaceOfCake.pdb
+c:\users\ivanovga\documents\visual studio 2013\Projects\ExamPreparation\01.PeaceOfCake\obj\Debug\01.PeaceOfCake.csprojResolveAssemblyReference.cache
+c:\users\ivanovga\documents\visual studio 2013\Projects\ExamPreparation\01.PeaceOfCake\obj\Debug\01.PeaceOfCake.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\ExamPreparation\01.PeaceOfCake\obj\Debug\01.PeaceOfCake.pdb

@@ -1,0 +1,5 @@
+c:\users\ivanovga\documents\visual studio 2013\Projects\Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.exe.config
+c:\users\ivanovga\documents\visual studio 2013\Projects\Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\Arrays\02.CompareArrays\bin\Debug\02.CompareArrays.pdb
+c:\users\ivanovga\documents\visual studio 2013\Projects\Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.exe
+c:\users\ivanovga\documents\visual studio 2013\Projects\Arrays\02.CompareArrays\obj\Debug\02.CompareArrays.pdb

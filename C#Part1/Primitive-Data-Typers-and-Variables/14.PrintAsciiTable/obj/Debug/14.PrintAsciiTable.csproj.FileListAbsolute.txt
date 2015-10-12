@@ -1,0 +1,6 @@
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\14.PrintAsciiTable\bin\Debug\14.PrintAsciiTable.exe.config
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\14.PrintAsciiTable\bin\Debug\14.PrintAsciiTable.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\14.PrintAsciiTable\bin\Debug\14.PrintAsciiTable.pdb
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\14.PrintAsciiTable\obj\Debug\14.PrintAsciiTable.csprojResolveAssemblyReference.cache
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\14.PrintAsciiTable\obj\Debug\14.PrintAsciiTable.exe
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\Primitive-Data-Typers-and-Variables\14.PrintAsciiTable\obj\Debug\14.PrintAsciiTable.pdb

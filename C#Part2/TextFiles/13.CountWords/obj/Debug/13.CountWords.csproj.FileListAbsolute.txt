@@ -1,0 +1,1 @@
+c:\users\ivanovga\documents\visual studio 2013\Projects\TextFiles\13.CountWords\bin\Debug\13.CountWords.exe.config

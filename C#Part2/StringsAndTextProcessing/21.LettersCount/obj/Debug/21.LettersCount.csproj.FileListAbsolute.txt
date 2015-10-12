@@ -1,0 +1,1 @@
+C:\Users\ivanovga\Documents\Visual Studio 2013\Projects\StringsAndTextProcessing\21.LettersCount\bin\Debug\21.LettersCount.exe.config
